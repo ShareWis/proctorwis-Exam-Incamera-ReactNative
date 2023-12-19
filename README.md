@@ -3,7 +3,7 @@ Camera adk for exam
 ## Installation
 
 ```sh
-npm install git+https://github.com/huydqbs96/react-native-camera-exam.git
+npm install git@github.com:ShareWis/proctorwis-Exam-Incamera-ReactNative.git
 
 require additional installation
 - "@bam.tech/react-native-image-resizer"

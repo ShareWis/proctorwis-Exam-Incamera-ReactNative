@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "10.0" }
-  s.source       = { :git => "https://github.com/huydqbs96/react-native-camera-exam.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/ShareWis/proctorwis-Exam-Incamera-ReactNative.git", :tag => "#{s.version}" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
